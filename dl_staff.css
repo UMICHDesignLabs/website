@@ -1,0 +1,74 @@
+.dl_profile_content{
+	width: 100%;
+	position: relative;
+  	overflow: hidden;
+}
+
+.dl_profile_h2{
+	font-size: 3em;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 20px 0px 25px;
+
+}
+
+.dl_profile{
+	width: 250px;
+	height: 450px;
+	float: left;
+	border-radius: 5px;
+	margin: 10px;
+	box-shadow: 0 2px 20px 0px rgba(226, 234, 249, 0.9);
+}
+
+.dl_profile_picture{
+	background-color: black;
+	width: 250px;
+	height: 250px;
+	margin: 0;
+}
+
+.dl_profile_text{
+	margin: 10px;
+}
+
+.dl_profile_divider{
+	width: 80%;
+	height: 1px;
+	border: 0;
+	background: #333;
+    background-image: linear-gradient(to right, #79C1FB, #5C58BF, #79C1FB);
+    margin: 0px 0px 15px;
+}
+
+.dl_profile_caption{
+	font-weight: 600;
+	color: #2A2F3C;
+}
+
+.dl_profile_name{
+	font-size: 1.5em;
+	font-weight: 600;
+	font-family: sans-serif;
+	margin: 20px 0px 5px;
+	color: #2A2F3C;
+}
+
+.dl_profile_lab{
+	font-family: sans-serif;
+	color: #485067;
+	text-transform: uppercase;
+	margin: 0px 0px 15px;
+}
+
+.dl_profile_major{
+	font-family: sans-serif;
+	color: #4A4A4A;
+	margin: 0px 0px 5px;
+}
+
+.dl_profile_expertise{
+	font-family: sans-serif;
+	color: #4A4A4A;
+	margin: 0px 0px 5px;
+}
